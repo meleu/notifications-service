@@ -1,0 +1,76 @@
+{
+  "emmet.syntaxProfiles": {
+    "javascript": "jsx"
+  },
+  "workbench.startupEditor": "newUntitledFile",
+  "editor.fontSize": 16,
+  "javascript.suggest.autoImports": true,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "editor.rulers": [
+    80,
+    120
+  ],
+  "extensions.ignoreRecommendations": true,
+  "typescript.tsserver.log": "off",
+  "files.associations": {
+    ".sequelizerc": "javascript",
+    ".styleintrc": "json",
+    ".tsx": "typescriptreact",
+    ".env.*": "dotenv",
+    ".prettierrc": "json"
+  },
+  "screencastMode.onlyKeyboardShortcuts": true,
+  "cSpell.userWords": [
+    "chakra",
+    "clsx",
+    "Dotenv",
+    "fastify",
+    "Fastify",
+    "feedbackwidget",
+    "Hono",
+    "IUGU",
+    "jupiter",
+    "middlewares",
+    "mixpanel",
+    "monaco",
+    "nestjs",
+    "Omni",
+    "Onboarded",
+    "pallas",
+    "prefetch",
+    "rocketseat",
+    "rotion",
+    "trpc",
+    "TRPC",
+    "unfollow",
+    "Unfollow",
+    "unform",
+    "Unform",
+    "unmark",
+    "upsert"
+  ],
+  "editor.parameterHints.enabled": false,
+  "editor.renderLineHighlight": "gutter",
+  "cSpell.language": "en,pt",
+  "editor.lineHeight": 26,
+  "material-icon-theme.languages.associations": {
+    "dotenv": "tune"
+  },
+  "typescript.updateImportsOnFileMove.enabled": "never",
+
+  "material-icon-theme.files.associations": {
+    "tsconfig.json": "tune",
+    "*.webpack.js": "webpack",
+    "*.proto": "3d",
+    "ormconfig.json": "database"
+  },
+  "material-icon-theme.activeIconPack": "nest",
+  "editor.suggestSelection": "first",
+  "explorer.confirmDelete": false,
+  "gitlens.codeLens.recentChange.enabled": false,
+  "terminal.integrated.showExitAlert": false,
+  "[prisma]": {
+    "editor.formatOnSave": true
+  },
+  "typescript.suggest.autoImports": true,
+}
